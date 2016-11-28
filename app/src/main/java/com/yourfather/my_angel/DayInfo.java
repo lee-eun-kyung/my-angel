@@ -2,6 +2,7 @@ package com.yourfather.my_angel;
 
 /**
  * 하루의 날짜정보를 저장하는 클래스
+ * @author EunKyung
  */
 public class DayInfo
 {
